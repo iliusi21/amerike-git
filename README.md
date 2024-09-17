@@ -1,10 +1,10 @@
 ## iliusi reyna ##
 
 Tengo 23 casi 24 años.
-Este repositorio es de mi practica 3
+Este es mi repositorio principal de mis practicas 
 
 ![si soy ](yomero.jpg)
 
-[Repositorio de la Práctica 2 y 1 ](https://github.com/iliusi21/repositorio-prueba)
+[Enlace a la Práctica 6] (https://github.com/iliusi21/Practica6)
 
-[Práctica 5](./practica-5.md)
+
