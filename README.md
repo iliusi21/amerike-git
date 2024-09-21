@@ -7,4 +7,7 @@ Este es mi repositorio principal de mis practicas
 
 [Enlace a la Práctica 6] (https://github.com/iliusi21/Practica6)
 
+- [Práctica 8](practica-8.md)
+
+
 
